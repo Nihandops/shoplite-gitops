@@ -2,7 +2,7 @@
 # CI writes image.tag here; ArgoCD waits for a manual sync.
 environment: prod
 image:
-  registry: 396608798769.dkr.ecr.ap-south-1.amazonaws.com
+  registry: 396608798769.dkr.ecr.ap-southeast-1.amazonaws.com
   tag: "initial"
 web:
   replicas: 2
