@@ -3,7 +3,7 @@
 environment: prod
 image:
   registry: 396608798769.dkr.ecr.ap-southeast-1.amazonaws.com
-  tag: "1b528fb"
+  tag: "753b861"
 web:
   replicas: 2
 catalogApi:
