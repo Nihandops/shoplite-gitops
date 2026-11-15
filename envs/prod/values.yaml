@@ -13,5 +13,5 @@ catalogApi:
     errorRate: 0
 orderWorker:
   chaos:
-    memoryLeak: false
+    memoryLeak: true
     slowDb: false
