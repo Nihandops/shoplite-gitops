@@ -3,7 +3,7 @@
 environment: dev
 image:
   registry: 396608798769.dkr.ecr.ap-southeast-1.amazonaws.com
-  tag: "753b861"
+  tag: "3327053"
 catalogApi:
   chaos:
     latencyMs: 0
