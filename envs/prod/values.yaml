@@ -14,4 +14,4 @@ catalogApi:
 orderWorker:
   chaos:
     memoryLeak: false
-    slowDb: false
+    slowDb: true
